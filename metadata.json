@@ -1,0 +1,6 @@
+{
+  "name": "Maze Escape AI - BFS & DFS Pathfinding Challenge",
+  "description": "Interactive maze generator with multiple randomized exits, 5-minute survival countdown timer, and AI pathfinding agents powered by BFS and DFS logic.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
